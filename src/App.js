@@ -1,9 +1,13 @@
 import React from 'react';
 import Sobre from './objects/Sobre';
+import Menu from './objects/Menu';
 
 function App() {
   return (
-    <Sobre />
+    <>
+      <Sobre />
+      <Menu />
+    </>
   );
 }
 
