@@ -1,4 +1,5 @@
 import React from 'react';
+import './styles.css'
 import Sobre from '../../objects/Sobre';
 import Menu from '../../objects/Menu';
 
